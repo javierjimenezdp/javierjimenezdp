@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Javier Jimenez Plata</h1>
 <h3 align="center">QA TESTER | Junior Automator | FrontEnd Trainee</h3>
 
-- 🔭 I’m currently working on **Proyectos multidisciplinarios**
+- 🔭 I’m currently working on **Multidisciplinary Projects**
 
 - 🌱 I’m currently learning **Flutter & Dart and Selenium WebDriver**
 
