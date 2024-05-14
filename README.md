@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Multidisciplinary Projects**
 
-- 🌱 I’m currently learning **Data Analysis and Mabl Automation Platform**
+- 🌱 I’m currently learning **Data Analysis and Mabl Automation Platform and Selenium + Python**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Automation**
 
-- 🤝 I’m looking for help with **Consolidate knowledge in SQL and Mabl AI low-code**
+- 🤝 I’m looking for help with **Consolidate knowledge in SQL and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/javierjimenezdp](https://github.com/javierjimenezdp)
 
