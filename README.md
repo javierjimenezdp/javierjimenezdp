@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Javier Jimenez Plata</h1>
-<h3 align="center">QA TESTER | Junior Automator | FrontEnd Trainee</h3>
+<h3 align="center">QA TESTER | Junior Automator | 
 
 - 🔭 I’m currently working on **Multidisciplinary Projects**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/javierjimenezdp](https://github.com/javierjimenezdp)
 
-- 💬 Ask me about **Manual Testing and API automation with Postman**
+- 💬 Ask me about **Manual Testing, Selenium, Python and Postman**
 
 - 📫 How to reach me **ing.javierdavidjp@gmail.com**
 
